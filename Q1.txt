@@ -1,0 +1,8 @@
+Q1)a)false
+     true
+     true
+     false
+
+b) cannot be compiled becuase geometric class is the superior class so it will not compile.
+
+c)can be compiled.
